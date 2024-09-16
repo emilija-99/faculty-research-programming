@@ -1,0 +1,16 @@
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\Alarm\Alarm\bin\Debug\net5.0\Alarm.exe
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\Alarm\Alarm\bin\Debug\net5.0\Alarm.deps.json
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\Alarm\Alarm\bin\Debug\net5.0\Alarm.runtimeconfig.json
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\Alarm\Alarm\bin\Debug\net5.0\Alarm.runtimeconfig.dev.json
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\Alarm\Alarm\bin\Debug\net5.0\Alarm.dll
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\Alarm\Alarm\bin\Debug\net5.0\ref\Alarm.dll
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\Alarm\Alarm\bin\Debug\net5.0\Alarm.pdb
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\Alarm\Alarm\obj\Debug\net5.0\Alarm.csproj.AssemblyReference.cache
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\Alarm\Alarm\obj\Debug\net5.0\Alarm.GeneratedMSBuildEditorConfig.editorconfig
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\Alarm\Alarm\obj\Debug\net5.0\Alarm.AssemblyInfoInputs.cache
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\Alarm\Alarm\obj\Debug\net5.0\Alarm.AssemblyInfo.cs
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\Alarm\Alarm\obj\Debug\net5.0\Alarm.csproj.CoreCompileInputs.cache
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\Alarm\Alarm\obj\Debug\net5.0\Alarm.dll
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\Alarm\Alarm\obj\Debug\net5.0\ref\Alarm.dll
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\Alarm\Alarm\obj\Debug\net5.0\Alarm.pdb
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\Alarm\Alarm\obj\Debug\net5.0\Alarm.genruntimeconfig.cache

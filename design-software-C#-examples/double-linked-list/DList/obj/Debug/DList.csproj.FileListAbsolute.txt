@@ -1,0 +1,7 @@
+C:\Users\koca\source\repos\DList\DList\bin\Debug\DList.exe.config
+C:\Users\koca\source\repos\DList\DList\bin\Debug\DList.exe
+C:\Users\koca\source\repos\DList\DList\bin\Debug\DList.pdb
+C:\Users\koca\source\repos\DList\DList\obj\Debug\DList.csproj.AssemblyReference.cache
+C:\Users\koca\source\repos\DList\DList\obj\Debug\DList.csproj.CoreCompileInputs.cache
+C:\Users\koca\source\repos\DList\DList\obj\Debug\DList.exe
+C:\Users\koca\source\repos\DList\DList\obj\Debug\DList.pdb

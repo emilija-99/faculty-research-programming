@@ -1,0 +1,16 @@
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\GenerickaLista\GenerickaLista\obj\Debug\net5.0\GenerickaLista.csproj.AssemblyReference.cache
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\GenerickaLista\GenerickaLista\obj\Debug\net5.0\GenerickaLista.GeneratedMSBuildEditorConfig.editorconfig
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\GenerickaLista\GenerickaLista\obj\Debug\net5.0\GenerickaLista.AssemblyInfoInputs.cache
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\GenerickaLista\GenerickaLista\obj\Debug\net5.0\GenerickaLista.AssemblyInfo.cs
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\GenerickaLista\GenerickaLista\obj\Debug\net5.0\GenerickaLista.csproj.CoreCompileInputs.cache
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\GenerickaLista\GenerickaLista\bin\Debug\net5.0\GenerickaLista.exe
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\GenerickaLista\GenerickaLista\bin\Debug\net5.0\GenerickaLista.deps.json
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\GenerickaLista\GenerickaLista\bin\Debug\net5.0\GenerickaLista.runtimeconfig.json
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\GenerickaLista\GenerickaLista\bin\Debug\net5.0\GenerickaLista.runtimeconfig.dev.json
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\GenerickaLista\GenerickaLista\bin\Debug\net5.0\GenerickaLista.dll
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\GenerickaLista\GenerickaLista\bin\Debug\net5.0\ref\GenerickaLista.dll
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\GenerickaLista\GenerickaLista\bin\Debug\net5.0\GenerickaLista.pdb
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\GenerickaLista\GenerickaLista\obj\Debug\net5.0\GenerickaLista.dll
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\GenerickaLista\GenerickaLista\obj\Debug\net5.0\ref\GenerickaLista.dll
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\GenerickaLista\GenerickaLista\obj\Debug\net5.0\GenerickaLista.pdb
+E:\PMF\Programiranje\Dizajniranje softvera\Prvi kolokvijum\GenerickaLista\GenerickaLista\obj\Debug\net5.0\GenerickaLista.genruntimeconfig.cache

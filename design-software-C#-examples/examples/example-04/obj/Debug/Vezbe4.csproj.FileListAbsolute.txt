@@ -1,0 +1,15 @@
+C:\Users\FUJITSU\source\repos\Vezbe4\Vezbe4\bin\Debug\Vezbe4.exe.config
+C:\Users\FUJITSU\source\repos\Vezbe4\Vezbe4\bin\Debug\Vezbe4.exe
+C:\Users\FUJITSU\source\repos\Vezbe4\Vezbe4\bin\Debug\Vezbe4.pdb
+C:\Users\FUJITSU\source\repos\Vezbe4\Vezbe4\obj\Debug\Vezbe4.csproj.AssemblyReference.cache
+C:\Users\FUJITSU\source\repos\Vezbe4\Vezbe4\obj\Debug\Vezbe4.csproj.SuggestedBindingRedirects.cache
+C:\Users\FUJITSU\source\repos\Vezbe4\Vezbe4\obj\Debug\Vezbe4.csproj.CoreCompileInputs.cache
+C:\Users\FUJITSU\source\repos\Vezbe4\Vezbe4\obj\Debug\Vezbe4.exe
+C:\Users\FUJITSU\source\repos\Vezbe4\Vezbe4\obj\Debug\Vezbe4.pdb
+C:\Users\EliteBook 830 G6\Desktop\PMF\PMF\dizajniranje-softvera\vezbe\Vezbe4\bin\Debug\Vezbe4.exe.config
+C:\Users\EliteBook 830 G6\Desktop\PMF\PMF\dizajniranje-softvera\vezbe\Vezbe4\bin\Debug\Vezbe4.exe
+C:\Users\EliteBook 830 G6\Desktop\PMF\PMF\dizajniranje-softvera\vezbe\Vezbe4\bin\Debug\Vezbe4.pdb
+C:\Users\EliteBook 830 G6\Desktop\PMF\PMF\dizajniranje-softvera\vezbe\Vezbe4\obj\Debug\Vezbe4.csproj.AssemblyReference.cache
+C:\Users\EliteBook 830 G6\Desktop\PMF\PMF\dizajniranje-softvera\vezbe\Vezbe4\obj\Debug\Vezbe4.csproj.CoreCompileInputs.cache
+C:\Users\EliteBook 830 G6\Desktop\PMF\PMF\dizajniranje-softvera\vezbe\Vezbe4\obj\Debug\Vezbe4.exe
+C:\Users\EliteBook 830 G6\Desktop\PMF\PMF\dizajniranje-softvera\vezbe\Vezbe4\obj\Debug\Vezbe4.pdb

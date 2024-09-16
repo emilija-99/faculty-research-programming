@@ -1,0 +1,3 @@
+C:\Users\FUJITSU\source\repos\Skup\Skup\obj\Debug\Skup.csproj.AssemblyReference.cache
+C:\Users\FUJITSU\source\repos\Skup\Skup\obj\Debug\Skup.csproj.SuggestedBindingRedirects.cache
+C:\Users\FUJITSU\source\repos\Skup\Skup\obj\Debug\Skup.csproj.CoreCompileInputs.cache

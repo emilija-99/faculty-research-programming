@@ -1,0 +1,8 @@
+C:\Users\FUJITSU\source\repos\Vezbe2\Vezbe3\bin\Debug\Vezbe3.exe.config
+C:\Users\FUJITSU\source\repos\Vezbe2\Vezbe3\bin\Debug\Vezbe3.exe
+C:\Users\FUJITSU\source\repos\Vezbe2\Vezbe3\bin\Debug\Vezbe3.pdb
+C:\Users\FUJITSU\source\repos\Vezbe2\Vezbe3\obj\Debug\Vezbe3.csproj.AssemblyReference.cache
+C:\Users\FUJITSU\source\repos\Vezbe2\Vezbe3\obj\Debug\Vezbe3.csproj.SuggestedBindingRedirects.cache
+C:\Users\FUJITSU\source\repos\Vezbe2\Vezbe3\obj\Debug\Vezbe3.csproj.CoreCompileInputs.cache
+C:\Users\FUJITSU\source\repos\Vezbe2\Vezbe3\obj\Debug\Vezbe3.exe
+C:\Users\FUJITSU\source\repos\Vezbe2\Vezbe3\obj\Debug\Vezbe3.pdb
