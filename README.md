@@ -14,7 +14,7 @@ This repository is based on my academic research, combined with insights from my
 Feel free to explore the repository. If you find any area that you can improve or add valuable insights to, contributions are more than welcome! Please submit a pull request or open an issue to get started.
 
 ## Notion Wiki Link
-For more detailed content and structured notes, please visit my [Notion Wiki](#) for "design-software-C#-theory-and-examples".
+For more detailed content and structured notes, please visit my [Notion Wiki](https://sponge-carpenter-f5b.notion.site/df89aa5da27148f79109c465a30adb22?v=103b4f6eb4b0802f9da1000c643de82e) for "design-software-C#-theory-and-examples".
 
 ## Contact
 If you have any questions or ideas to share, you can reach out to me via GitHub or the Notion Wiki comments section.
