@@ -1,0 +1,26 @@
+.include "m328Pdef.inc"
+sbi ddrb ddb5;
+cbi portb, portb5;
+cbi ddrd ddd2;
+sbi portd, portd2;
+sbi ddrb ddb4;
+cbi portb, portb4;
+cbi ddrb ddd2;
+sbi portd, portd2;
+sbi ddrb ddb3;
+cbi portb, portb;
+cbi ddrd ddd2;
+sbi portd, portd2;
+loop;
+sbis pind, pind2;
+cbo portb, portb5;
+sbic pind, pind2;
+sbi portb, portb5;
+sbis pind, pind2;
+cbo portb, portb4;
+sbic pind, pind2;
+sbi portb, portb4;
+sbis pind, pind2;
+cbo portb, portb3;
+sbic pind, pind2;
+sbi portb, portb3;

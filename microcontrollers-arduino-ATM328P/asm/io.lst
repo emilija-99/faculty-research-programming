@@ -1,0 +1,71 @@
+gavrasm Gerd's AVR assembler version 5.4 (C)2022 by DG4FAC
+----------------------------------------------------------
+
+Path:        C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\
+Source file: io.asm
+Hex file:    io.hex
+Eeprom file: io.eep
+Compiled:    31.10.2022, 15:02:18
+Pass:        1
+
+     1: .include "m328Pdef.inc"
+ ===> Error 091: Missing or unknown parameter(s)!
+      Line: sbi ddrb ddb5;
+      File: C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\io.asm, Line: 2
+     2: 000000   0000  sbi ddrb ddb5;
+     3: 000001   9828  cbi portb, portb5;
+ ===> Error 091: Missing or unknown parameter(s)!
+      Line: cbi ddrd ddd2;
+      File: C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\io.asm, Line: 4
+     4: 000002   0000  cbi ddrd ddd2;
+     5: 000003   9A58  sbi portd, portd2;
+ ===> Error 091: Missing or unknown parameter(s)!
+      Line: sbi ddrb ddb4;
+      File: C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\io.asm, Line: 6
+     6: 000004   0000  sbi ddrb ddb4;
+     7: 000005   9828  cbi portb, portb4;
+ ===> Error 091: Missing or unknown parameter(s)!
+      Line: cbi ddrb ddd2;
+      File: C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\io.asm, Line: 8
+     8: 000006   0000  cbi ddrb ddd2;
+     9: 000007   9A58  sbi portd, portd2;
+ ===> Error 091: Missing or unknown parameter(s)!
+      Line: sbi ddrb ddb3;
+      File: C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\io.asm, Line: 10
+    10: 000008   0000  sbi ddrb ddb3;
+    11: 000009   9828  cbi portb, portb;
+ ===> Error 091: Missing or unknown parameter(s)!
+      Line: cbi ddrd ddd2;
+      File: C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\io.asm, Line: 12
+    12: 00000A   0000  cbi ddrd ddd2;
+    13: 00000B   9A58  sbi portd, portd2;
+ ===> Error 070: Unknown instruction or macro!
+      Line: loop;
+      File: C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\io.asm, Line: 14
+    15: 00000C   9B48  sbis pind, pind2;
+ ===> Error 070: Unknown instruction or macro!
+      Line: cbo portb, portb5;
+      File: C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\io.asm, Line: 16
+    17: 00000D   9948  sbic pind, pind2;
+    18: 00000E   9A28  sbi portb, portb5;
+    19: 00000F   9B48  sbis pind, pind2;
+ ===> Error 070: Unknown instruction or macro!
+      Line: cbo portb, portb4;
+      File: C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\io.asm, Line: 20
+    21: 000010   9948  sbic pind, pind2;
+    22: 000011   9A28  sbi portb, portb4;
+    23: 000012   9B48  sbis pind, pind2;
+ ===> Error 070: Unknown instruction or macro!
+      Line: cbo portb, portb3;
+      File: C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\io.asm, Line: 24
+    25: 000013   9948  sbic pind, pind2;
+    26: 000014   9A28  sbi portb, portb3;
+
+List of symbols:
+Type nDef nUsed             Decimalval           Hexval Name
+  T     1     1                    171               AB ATMEGA328P
+  C     1     0                     22               16 NOW_Y
+  C     1     0                     10               0A NOW_M
+  C     1     0                     31               1F NOW_D
+  C     1     0                  44865             AF41 NOW_I
+Compilation aborted, 10 errors!

@@ -1,0 +1,40 @@
+gavrasm Gerd's AVR assembler version 5.4 (C)2022 by DG4FAC
+----------------------------------------------------------
+
+Path: C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\
+Source file: io.asm
+Hex file:    io.hex
+Eeprom file: io.eep
+Compiled:    31.10.2022, 15:02:18
+Pass:        1
+ ===> Error 091: Missing or unknown parameter(s)!
+      Line: sbi ddrb ddb5;
+      File: C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\io.asm, Line: 2
+ ===> Error 091: Missing or unknown parameter(s)!
+      Line: cbi ddrd ddd2;
+      File: C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\io.asm, Line: 4
+ ===> Error 091: Missing or unknown parameter(s)!
+      Line: sbi ddrb ddb4;
+      File: C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\io.asm, Line: 6
+ ===> Error 091: Missing or unknown parameter(s)!
+      Line: cbi ddrb ddd2;
+      File: C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\io.asm, Line: 8
+ ===> Error 091: Missing or unknown parameter(s)!
+      Line: sbi ddrb ddb3;
+      File: C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\io.asm, Line: 10
+ ===> Error 091: Missing or unknown parameter(s)!
+      Line: cbi ddrd ddd2;
+      File: C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\io.asm, Line: 12
+ ===> Error 070: Unknown instruction or macro!
+      Line: loop;
+      File: C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\io.asm, Line: 14
+ ===> Error 070: Unknown instruction or macro!
+      Line: cbo portb, portb5;
+      File: C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\io.asm, Line: 16
+ ===> Error 070: Unknown instruction or macro!
+      Line: cbo portb, portb4;
+      File: C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\io.asm, Line: 20
+ ===> Error 070: Unknown instruction or macro!
+      Line: cbo portb, portb3;
+      File: C:\Users\FUJITSU\Desktop\PMF\mikrokontrolerski-sistemi\asm\io.asm, Line: 24
+Compilation aborted, 10 errors!
